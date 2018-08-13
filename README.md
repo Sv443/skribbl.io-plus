@@ -11,7 +11,7 @@
 - Install the TamperMonkey addon - <a href="https://tinyurl.com/ybed26ab">Firefox</a>, <a href="https://tinyurl.com/aqhkmex">Chrome</a>
 - Visit <a href="https://tinyurl.com/ycvpw3s8">this page</a> and click the install button and follow the instructions
 - Click on the TamperMonkey icon in the top right, then click dashboard and finally click edit on the right of the skribbl.io+ script
-- Edit the settings found near the top (column 60 to 86)
+- Edit the settings found near the top (column 38 to 45)
 - Press CTRL + S to save the script
 - Enjoy the new features!
   
