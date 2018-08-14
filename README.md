@@ -4,7 +4,8 @@
 # Current Features:
 
 - It prepends a delete box on every message that deletes it on click
-- It appends a "download drawing"-button underneath the votekick button so you can download your (and other's) masterpieces
+- It appends a "Download Drawing"-button underneath the votekick button so you can download your (and other's) masterpieces
+- It also appends a "Hard Mode"-button underneath the "Download Drawing"-button that disables the word hint and the chat
 
 
 # Setup:
