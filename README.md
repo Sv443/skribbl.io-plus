@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Sv443/code/master/resources/favicons/watch2gether%2B%20icon.png" width="50px" height="50px" /> skribbl.io+ - Use Tamper- or GreaseMonkey to add a few helpful (non-cheaty) features to skribbl.io
+# <img src="https://raw.githubusercontent.com/Sv443/code/master/resources/favicons/skribbl.io%2B%20icon.png" width="50px" height="50px" /> skribbl.io+ - Use Tamper- or GreaseMonkey to add a few helpful (non-cheaty) features to skribbl.io
 
 
 # Current Features:
