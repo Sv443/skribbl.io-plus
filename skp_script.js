@@ -35,9 +35,9 @@
 /* /  /  /                         Settings                                Settings                                Settings                                Settings                     \  \  \ */
 /*/  /  /    Settings                                Settings                                Settings                                Settings                                Settings    \  \  \*/
 
-var dbg = true; //enable javascript console debug (default: false, can be true or false)
-var lang = "de"; //change the localization ("en" for english, "de" for german)
-var del_content = "X"; //content of the delete box (default: "X") (you can also use HTML if you want to) (also, change it to "<x>" for a special, little, hidden effect :D)
+var dbg = false; //enable javascript console debug (default: false, can be true or false)
+var lang = "en"; //change the localization ("en" for english, "de" for german)
+var del_content = "X"; //content of the delete box (default: "X") (you can also use HTML if you want to)
 
 
 var feature_delete_messages = true; //feature that prepends a delete box on every message that deletes it on click (it's a bit useless but eh, why not?) (default: true, can be true or false)
