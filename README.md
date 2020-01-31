@@ -9,7 +9,7 @@
 
 # Setup:
 - Install the TamperMonkey addon - [Firefox](https://tinyurl.com/ybed26ab), [Chrome](https://tinyurl.com/aqhkmex)
-- [Click here](./skribblio-plus.user.js) and follow the instructions to install the user script
+- [Click here](https://github.com/Sv443/skribbl.io-plus/raw/wip/1.0.0/skribblio-plus.user.js) and follow the instructions to install the user script
 - Go to the [skribbl.io page](https://skribbl.io/) and open the skribbl.io+ menu at the right side of the screen
   
   
