@@ -23,6 +23,6 @@
 
 # How to Report Bugs or Contribute to the Translations or Script:
 - If you want to report a bug, please post it as an issue <a href="https://github.com/Sv443/skribbl.io-plus/issues">here</a>
-- If you want to contribute by submitting a translation, please visit <a href="http://www.sv443.net/translate_skp" target="blank_">this website</a> or contact me via E-Mail (sven.fehler@web.de)
-- If you want to send in code I could include in the script, please contact me via E-Mail (sven.fehler@web.de) and I will send you the details on that. 
+- If you want to contribute by submitting a translation, please visit <a href="http://www.sv443.net/translate_skp" target="_blank">this website</a> or <a href="mailto:%63%6F%6E%74%61%63%74%40%73%76%34%34%33%2E%6E%65%74" target="_blank">contact me via E-Mail.</a>
+- If you want to send in code I could include in the script, please [contact me via E-Mail](mailto:%63%6F%6E%74%61%63%74%40%73%76%34%34%33%2E%6E%65%74) and I will send you the details on that. 
 ## Thanks :)
